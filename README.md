@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Subbir Ahmmad. I am currently enrolled in an undergraduate program for Computer Science and Engineering at Mawlana Bhashani Science and Technology University. 
 
 <!--
 **supersub-ftw/supersub-ftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
